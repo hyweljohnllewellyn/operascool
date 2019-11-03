@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: OperasCool-48_sm</title>
+	<title>
+	Comments on: OperasCool-48_sm	</title>
 	<atom:link href="http://localhost/feedback/operascool-48_sm/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.operascool.org/</link>
 	<description>by Hartley Voices, www.hartleyvoices.co.uk</description>
-	<lastBuildDate>Mon, 22 Jan 2018 22:30:25 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.2</generator>
+	<lastBuildDate>Wed, 23 Jan 2013 14:36:50 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
 </channel>
 </rss>

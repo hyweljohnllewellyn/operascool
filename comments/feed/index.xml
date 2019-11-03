@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments for OperasCool! School Workshops</title>
+	<title>
+	Comments for OperasCool! School Workshops	</title>
 	<atom:link href="http://localhost/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.operascool.org/</link>
 	<description>by Hartley Voices, www.hartleyvoices.co.uk</description>
-	<lastBuildDate>Mon, 22 Jan 2018 22:30:22 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.2</generator>
+	<lastBuildDate>2019-11-03 20:16:26</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
 </channel>
 </rss>
