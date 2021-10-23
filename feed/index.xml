@@ -9,15 +9,15 @@
 
 <channel>
 	<title>OperasCool! School Workshops</title>
-	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.operascool.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.operascool.org/</link>
 	<description>by Hartley Voices, www.hartleyvoices.co.uk</description>
-	<lastBuildDate>2020-01-27 19:36:27</lastBuildDate>
+	<lastBuildDate>Sat, 23 Oct 2021 14:41:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.2.5</generator>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>

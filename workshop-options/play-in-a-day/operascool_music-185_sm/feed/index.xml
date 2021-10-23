@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: play-in-a-day_4	</title>
-	<atom:link href="http://localhost/workshop-options/play-in-a-day/operascool_music-185_sm/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.operascool.org/workshop-options/play-in-a-day/operascool_music-185_sm/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.operascool.org/</link>
 	<description>by Hartley Voices, www.hartleyvoices.co.uk</description>
 	<lastBuildDate>Thu, 21 Mar 2013 10:41:16 +0000</lastBuildDate>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.2.5</generator>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>
